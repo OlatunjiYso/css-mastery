@@ -6,3 +6,7 @@ p, a {
   display: inline-block;
   background: #e5e5e5;
 }
+
+/* inline elements stacks from left to right */
+
+/* block elements stacks from on top of each other */
