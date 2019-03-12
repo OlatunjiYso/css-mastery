@@ -1,0 +1,24 @@
+.service {
+  float: left;
+  background: #e1e1e1;
+  width: 29.33%;
+  margin: 5px;
+  padding: 1%;
+  height: 140px;
+}
+
+.services:after {
+  content: "";
+  display: block;
+  clear: both;
+}
+.contents {
+margin-top: 3em;
+background: grey;
+clear:both;
+}
+
+/* .dummy {
+  clear:both;
+} */
+
