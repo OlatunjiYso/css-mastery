@@ -1,0 +1,8 @@
+p, a {
+  margin: 20px;
+  border: 2px solid black;
+  padding: 40px;
+  width: 20%;
+  display: inline-block;
+  background: #e5e5e5;
+}
