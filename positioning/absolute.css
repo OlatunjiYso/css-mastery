@@ -1,0 +1,30 @@
+#banner {
+  max-height: 300px;
+  overflow: hidden;
+  margin: 1%;
+  position: relative
+}
+
+#banner h2 {
+  position: absolute;
+  font-size: 3em;
+  top: 200px;
+  margin:0;
+  text-align: center;
+  width: 100%;
+  color: rgb(87, 155, 108);
+}
+
+#banner #address {
+  position: absolute;
+  top:0;
+  right:150px;
+  color: rgb(245, 243, 244);
+}
+
+#banner #image {
+  position: absolute;
+  top:1rem;
+  left: 1rem;
+  border-radius: 45%;
+}
