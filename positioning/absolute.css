@@ -7,12 +7,11 @@
 
 #banner h2 {
   position: absolute;
-  font-size: 3em;
-  top: 200px;
-  margin:0;
+  font-size: 2em;
+  top: 10px;
   text-align: center;
   width: 100%;
-  color: rgb(87, 155, 108);
+  color: rgb(188, 236, 203);
 }
 
 #banner #address {
